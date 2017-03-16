@@ -48,7 +48,9 @@ Big blue circle marked with a percent of 50%:
 <hr>
 
 ###npm
-[![https://nodei.co/npm/math.js.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/percircle.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/percircle)
+```
+npm install percircle
+```
 
 ###Bower
 Percircle is also registered as a Bower package, so it can be pulled down using:
