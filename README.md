@@ -1,5 +1,6 @@
 # percircle
-> CSS percentage circle built with jQuery
+> CSS percentage circle built with jQuery 
+[![https://nodei.co/npm/math.js.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/percircle.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/percircle)
 
 #[Demo](https://toubou91.github.io/percircle)</a>
 ###Custom circles
