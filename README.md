@@ -1,6 +1,5 @@
 # percircle
 > CSS percentage circle built with jQuery 
-[![https://nodei.co/npm/math.js.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/percircle.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/percircle)
 
 #[Demo](https://toubou91.github.io/percircle)</a>
 ###Custom circles
@@ -49,10 +48,7 @@ Big blue circle marked with a percent of 50%:
 <hr>
 
 ###npm
-Percircle is registered as an npm package and can be installed with:
-```
-npm install percircle
-```
+[![https://nodei.co/npm/math.js.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/percircle.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/percircle)
 
 ###Bower
 Percircle is also registered as a Bower package, so it can be pulled down using:
